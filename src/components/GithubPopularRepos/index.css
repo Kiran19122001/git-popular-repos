@@ -1,0 +1,49 @@
+.app-cont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.head {
+    font-family: Lobster;
+}
+
+.lan-div {
+    display: flex;
+    width: 400px;
+    /* justify-content: space-between; */
+    align-items: center;
+}
+
+.list-items {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.responsive-cont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 50px;
+}
+
+.loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.failure-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.failure-img {
+    height: 500px;
+    width: 800px;
+}

@@ -1,0 +1,16 @@
+.buttons.active {
+    border: 1.5px solid #0284c7;
+    background-color: transparent;
+    border-radius: 20px;
+    padding: 5px 10px 5px 10px;
+    cursor: pointer;
+    font-size: 18px;
+    color: #0284c7;
+}
+
+.buttons {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    font-size: 18px;
+}

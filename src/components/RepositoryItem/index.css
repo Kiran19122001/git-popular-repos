@@ -1,0 +1,29 @@
+.logo {
+    height: 150px;
+    width: 150px;
+}
+
+.item-cont {
+    width: 460px;
+    list-style: none;
+    background-color: #f8f8ff;
+    padding: 50px 10px 10px 10px;
+    margin: 10px 0px 10px 10px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 410px;
+}
+
+.icons {
+    height: 30px;
+    width: 30px;
+    margin-right: 10px;
+}
+
+.icon-conts {
+    display: flex;
+    align-items: center;
+}
